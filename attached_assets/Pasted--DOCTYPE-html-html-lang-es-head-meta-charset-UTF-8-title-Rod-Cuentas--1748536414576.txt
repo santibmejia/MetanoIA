@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Rod Cuentas - Herramientas de IA y SEO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #43048B; /* Morado */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #ED247D; /* Rosado */
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+
+        h1, h2, h3 {
+            color: #43048B; /* Morado */
+        }
+
+        .description {
+            margin: 20px;
+            text-align: center;
+        }
+
+        .button {
+            background-color: #ED247D; /* Rosado */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px; /* Añadido margen entre botones */
+        }
+
+        .product {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+
+        .product img {
+            max-width: 100px;
+        }
+
+        .faq {
+            margin: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #43048B; /* Morado */
+            color: white;
+        }
+
+        #purchase-msg {
+            position: fixed;
+            bottom: 30px;
+            left: 30px;
+            background: #ffffff;
+            color: #333;
+            padding: 15px 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            font-family: 'Arial', sans-serif;
+            font-size: 16px;
+            display: none;
+            z-index: 1000;
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Rod Cuentas</h1>
+    </header>
+
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#precios">Precios</a>
+        <a href="#faqs">FAQs</a>
+    </nav>
+
+    <section id="inicio" class="description">
+        <h2>Pack definitivo de más de 50 herramientas de IA, SEO y más por un solo precio</h2>
+        <p>Olvídate de pagar varias suscripciones por separado.</p>
+        <button class="button" onclick="document.getElementById('precios').scrollIntoView();">Ver Precios</button>
+    </section>
+
+    <section id="precios">
+        <h2>Características por Combo</h2>
+        <div class="product">
+            <div>
+                <h3>Combo ChatGPT Plus Premium - $14.90 USD/MES</h3>
+                <img src="https://agenciasiglovibe.com/rodcuentas/img/ChatGPT%20$14.90.png" alt="Combo ChatGPT Plus Premium">
+                <p>+25 herramientas IA: ChatGPT Pro, Claude AI, etc.</p>
+                <button class="button" onclick="window.open('https://whop.com/checkout/plan_VnIrcRytcpB5K/?a=santibm&d2c=true', '_blank');">Comprar</button>
+                <button class="button" onclick="alert('Hola aqui te paso todos los detalles mas avanzados del producto para mas informacion');">Más Información</button>
+            </div>
+            <div>
+                <h3>Combo Antiplagio y Estudiante - $16 USD/MES</h3>
+                <img src="https://agenciasiglovibe.com/rodcuentas/img/Estudiante%20$16.png" alt="Combo Antiplagio y Estudiante">
+                <p>Herramientas para detectar y corregir plagio.</p>
+                <button class="button" onclick="window.open('https://whop.com/checkout/plan_JAP8UXK0JqeFa/?a=santibm&d2c=true', '_blank');">Comprar</button>
+                <button class="button" onclick="alert('Hola aqui te paso todos los detalles mas avanzados del producto para mas informacion');">Más Información</button>
+            </div>
+            <div>
+                <h3>Combo SEO, eCommerce y Marketing - $18 USD/MES</h3>
+                <img src="https://agenciasiglovibe.com/rodcuentas/img/SEO%20$18.png" alt="Combo SEO, eCommerce y Marketing">
+                <p>SEO, eCommerce, Marketing y más.</p>
+                <button class="button" onclick="window.open('https://whop.com/checkout/plan_2z7EbM0faINBX/?a=santibm&d2c=true', '_blank');">Comprar</button>
+                <button class="button" onclick="alert('Hola aqui te paso todos los detalles mas avanzados del producto para mas informacion');">Más Información</button>
+            </div>
+        </div>
+        <div class="product">
+            <div>
+                <h3>Combo Ultra IA - $24.90 USD/MES</h3>
+                <img src="https://agenciasiglovibe.com/rodcuentas/img/UltraIA%20$24.90.png" alt="Combo Ultra IA">
+                <p>Más de 300 herramientas premium.</p>
+                <button class="button" onclick="window.open('https://whop.com/checkout/plan_8BmZiN5e7fbMY/?a=santibm&d2c=true', '_blank');">Comprar</button>
+                <button class="button" onclick="alert('Hola aqui te paso todos los detalles mas avanzados del producto para mas informacion');">Más Información</button>
+            </div>
+            <div>
+                <h3>Combo Médico + IA - $60 USD/AÑO</h3>
+                <img src="https://agenciasiglovibe.com/rodcuentas/img/Medico%20$60.png" alt="Combo Médico + IA">
+                <p>Apps médicas premium y herramientas IA.</p>
+                <button class="button" onclick="window.open('https://whop.com/checkout/plan_BSnRObDWu5wAM/?a=santibm&d2c=true', '_blank');">Comprar</button>
+                <button class="button" onclick="alert('Hola aqui te paso todos los detalles mas avanzados del producto para mas informacion');">Más Información</button>
+            </div>
+        </div>
+    </section>
+
+    <section id="faqs" class="faq">
+        <h2>Preguntas Frecuentes</h2>
+        <p><strong>¿La compra es una suscripción con renovación automática?</strong><br>Sí, al adquirir este producto estás suscribiéndote a un plan con renovación automática.</p>
+        <p><strong>¿Puedo cancelar mi suscripción en cualquier momento?</strong><br>¡Por supuesto! Puedes cancelar tu suscripción en cualquier momento.</p>
+        <p><strong>¿Qué es Rod Cuentas y qué servicios ofrece?</strong><br>Rod Cuentas es una plataforma que facilita el acceso a herramientas digitales mediante un modelo de group buy.</p>
+        <p><strong>¿Rod Cuentas es el desarrollador o propietario de las herramientas ofrecidas?</strong><br>No, Rod Cuentas no desarrolla ni posee las herramientas disponibles en nuestra plataforma.</p>
+        <p><strong>¿Cómo funcionan las suscripciones en Rod Cuentas?</strong><br>Ofrecemos planes de suscripción mensuales y anuales que brindan acceso a las herramientas disponibles en nuestra plataforma.</p>
+        <!-- Agregar más preguntas frecuentes aquí -->
+    </section>
+
+    <footer>
+        <p>© <script>document.write(new Date().getFullYear());</script> ROD CUENTAS - Todos los derechos reservados.</p>
+        <p>Para más información o asistencia personalizada, envíanos un mensaje directo a <a href="https://ig.me/m/metanoiaescuela" style="color: white;">@metanoiaescuela</a></p>
+        <button class="button" onclick="window.open('https://ig.me/m/metanoiaescuela', '_blank');">QUIERO MÁS INFORMACIÓN</button>
+        <a href="#terminos" style="color: white;">Términos y condiciones</a>
+    </footer>
+
+    <section id="terminos" style="display: none;">
+        <h2>Términos y Condiciones de Rodcuentas.com</h2>
+        <p>Al acceder y realizar un pedido en Rodcuentas.com, usted confirma que está de acuerdo con y se compromete a cumplir con los términos y condiciones establecidos a continuación...</p>
+        <!-- Agregar el texto completo de los términos y condiciones aquí -->
+    </section>
+
+    <script>
+        const messages = [
+            "santadeep: Lo tengo para Envato y va de 10 👏🏻 Tiene buenos precios y atienden al toque, siempre. Ya quedé fijo con ellos 🤟🏻",
+            "jessenia_jaure: Super recomendable!!!! Y el acceso es muy fácil❤️❤️",
+            "yeimeryiyo: Llevo dos meses con el servicio y hasta ahora excelente, les recomiendo prepararse porque los paquetes tienen algunas aplicaciones muy buenas que a veces uno no sabe como funciona 😂 eso me pasó al principio, pero ahí voy aprendiendo 🔥",
+            "dragyashiver: Muy amable, responde rápido, cumple con todo lo que promete, sus combos son muy completos y seguros.",
+            "jessenia_jaure: Los recomiendo! La verdad se trabaja muy fácil y ayuda muchísimo a crear contenido 👏👏👏🔥🔥",
+            "luisam_cuar: Tengo el combo médico desde hace casi medio año y me ha sido infinitamente útil como estudiante. Super recomendado",
+            "danielferher97: Para los médicos que trabajamos en baja complejidad (pueblos), es super útil, especialmente si estás preparando para residencia",
+            "estebanrojalv: Muy recomendado. Voy para un año con un servicio de iLovePDF y son muy serios en la entrega del producto y tienen soporte con respuestas inmediatas. Muchas gracias"
+        ];
+
+        function showMessage() {
+            const message = messages[Math.floor(Math.random() * messages.length)];
+            const msgElement = document.getElementById('purchase-msg');
+            msgElement.innerText = message;
+            msgElement.style.display = 'block';
+            msgElement.style.opacity = 1;
+            setTimeout(() => {
+                msgElement.style.opacity = 0;
+                setTimeout(() => {
+                    msgElement.style.display = 'none';
+                }, 500);
+            }, 3000);
+        }
+
+        setInterval(showMessage, 10000); // Intervalo de 10 segundos
+    </script>
+
+</body>
+
+</html>

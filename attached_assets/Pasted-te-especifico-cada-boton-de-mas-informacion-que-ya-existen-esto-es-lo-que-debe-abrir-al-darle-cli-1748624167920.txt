@@ -1,0 +1,52 @@
+te especifico cada boton de "mas informacion" que ya existen. esto es lo que debe abrir al darle click
+
+boton de "mas informacion" del primer producto (combo chatgpt plus premium) abre ventana modal con texto: 💎 COMBO CHATGPT PLUS PREMIUM – $14.90 USD/MES
+🔹 +25 herramientas IA:
+• IA y productividad: ChatGPT Pro, Claude AI, Gemini Advanced, Sider, YouAI, MaxAI, MindGrasp, etc.
+
+• Diseño y creatividad: Canva Pro, Leonardo AI, Adobe Express, Freepik Pro con IA, Ideogram
+
+• Video y multimedia: CapCut Pro, Vizard, HeyGen Team, InVideo Editor, Sora
+
+• Entretenimiento: Disney+, Crunchyroll, Prime Video, Paramount+, Plex
+
+• Educación: Scribd, Everand
+
+• Voz IA: LOVO AI, DankiCode
+
+boton de "mas informacion" del segundo producto (combo antiplagio y estudiante) abre ventana modal con texto: 🎓 COMBO ANTIPLAGIO & ESTUDIANTE – $16 USD/MES
+🔹 Herramientas para detectar y corregir plagio: Turnitin, Grammarly, Smodin, Cramly, Copyscape, ProWritingAid, Wordtune, Jenni.ai
+🔹 Incluye acceso completo al Combo ChatGPT Plus Premium. Es decir: +25 herramientas IA:
+• IA y productividad: ChatGPT Pro, Claude AI, Gemini Advanced, Sider, YouAI, MaxAI, MindGrasp, etc.
+
+• Diseño y creatividad: Canva Pro, Leonardo AI, Adobe Express, Freepik Pro con IA, Ideogram
+
+• Video y multimedia: CapCut Pro, Vizard, HeyGen Team, InVideo Editor, Sora
+
+• Entretenimiento: Disney+, Crunchyroll, Prime Video, Paramount+, Plex
+
+• Educación: Scribd, Everand
+
+• Voz IA: LOVO AI, DankiCode
+
+boton de "mas informacion" del tercer producto (combo seo, ecommerce y marketing) abre ventana modal con texto : 🎯 COMBO SEO, ECOMMERCE Y MARKETING – $18 USD/MES
+🔹 SEO: SEMrush, DinoRank, Mangools, Serpstat
+🔹 eCommerce: Helium 10, Jungle Scout, ZIK Analytics
+🔹 Marketing: BuzzSumo, Hunter, Majestic, SimilarWeb
+🔹 Diseño & contenido: Canva Pro, Envato, Freepik Pro, Storyblocks, Quillbot, Quetext, Smodin
+
+boton de "mas informacion" del cuarto producto (combo ultra ia) abre ventana modal con texto : ⚡️ COMBO ULTRA IA – $24.90 USD/MES
+🔹 Más de 300 herramientas premium:
+IA para redacción, automatización, diseño, programación, SEO, educación, creación de contenido, etc.
+Es el combo más completo .Todas las IA en un solo combo.  Más de 300 herramientas premium. 
+     
+boton de "mas informacion" del quinto producto (combo médico + IA) abre ventana modal con texto : 🏥 COMBO MÉDICO + 25 apps IA – $60 USD/AÑO .Enfocado en estudiantes y profesionales de la salud
+🔹 Apps médicas premium y bases de datos médicas
+  UpToDate, AMBOSS, Lecturio, Osmosis, Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.
+  🔹 Incluye también acceso a +25 herramientas IA como regalo
+
+Cada modal debe tener un botón o una “X” para cerrar, y el estilo de todas las ventanas modales debe ser igual (mismo color de fondo, tipografía, tamaño, etc.).
+
+Los botones ya existen en el código, solo necesito que los conectes con la ventana modal correspondiente
+
+.
