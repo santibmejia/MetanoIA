@@ -659,7 +659,7 @@ export default function Home() {
         <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4">
           <div className="bg-white rounded-lg max-w-4xl max-h-[90vh] overflow-y-auto">
             <div className="sticky top-0 bg-white border-b px-6 py-4 flex justify-between items-center">
-              <h2 className="text-2xl font-bold text-rod-purple">Términos y Condiciones de Rodcuentas.com</h2>
+              <h2 className="text-2xl font-bold text-rod-purple">Términos y Condiciones de Rodcuentas</h2>
               <button 
                 onClick={() => setShowTerms(false)}
                 className="text-gray-500 hover:text-gray-700 text-2xl font-bold"
@@ -669,7 +669,7 @@ export default function Home() {
             </div>
             <div className="p-6 space-y-6 text-sm leading-relaxed">
               <p className="text-gray-700">
-                Al acceder y realizar un pedido en Rodcuentas.com, usted confirma que está de acuerdo con y se compromete a cumplir con los términos y condiciones establecidos a continuación. Estos términos se aplican a todo el sitio web y cualquier correo electrónico u otro tipo de comunicación entre usted y Rodcuentas.com. Bajo ninguna circunstancia será responsable Rodcuentas.com por daños directos, indirectos, especiales, incidentales o consecuentes, incluyendo, pero no limitado a, pérdida de beneficios, pérdida de datos, interrupción del negocio, o cualquier otra pérdida comercial, que surja del uso o la imposibilidad de usar el material del sitio web, incluso si Rodcuentas.com ha sido advertido de la posibilidad de tales daños.
+                Al acceder y realizar un pedido en Rodcuentas, usted confirma que está de acuerdo con y se compromete a cumplir con los términos y condiciones establecidos a continuación. Estos términos se aplican a todo el sitio web y cualquier correo electrónico u otro tipo de comunicación entre usted y Rodcuentas.com. Bajo ninguna circunstancia será responsable Rodcuentas.com por daños directos, indirectos, especiales, incidentales o consecuentes, incluyendo, pero no limitado a, pérdida de beneficios, pérdida de datos, interrupción del negocio, o cualquier otra pérdida comercial, que surja del uso o la imposibilidad de usar el material del sitio web, incluso si Rodcuentas.com ha sido advertido de la posibilidad de tales daños.
               </p>
 
               <div>
