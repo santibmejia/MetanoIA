@@ -669,20 +669,20 @@ export default function Home() {
             </div>
             <div className="p-6 space-y-6 text-sm leading-relaxed">
               <p className="text-gray-700">
-                Al acceder y realizar un pedido en Rodcuentas, usted confirma que está de acuerdo con y se compromete a cumplir con los términos y condiciones establecidos a continuación. Estos términos se aplican a todo el sitio web y cualquier correo electrónico u otro tipo de comunicación entre usted y Rodcuentas.com. Bajo ninguna circunstancia será responsable Rodcuentas.com por daños directos, indirectos, especiales, incidentales o consecuentes, incluyendo, pero no limitado a, pérdida de beneficios, pérdida de datos, interrupción del negocio, o cualquier otra pérdida comercial, que surja del uso o la imposibilidad de usar el material del sitio web, incluso si Rodcuentas.com ha sido advertido de la posibilidad de tales daños.
+                Al acceder y realizar un pedido en Rodcuentas, usted confirma que está de acuerdo con y se compromete a cumplir con los términos y condiciones establecidos a continuación. Estos términos se aplican a todo el sitio web y cualquier correo electrónico u otro tipo de comunicación entre usted y Rodcuentas. Bajo ninguna circunstancia será responsable Rodcuentas por daños directos, indirectos, especiales, incidentales o consecuentes, incluyendo, pero no limitado a, pérdida de beneficios, pérdida de datos, interrupción del negocio, o cualquier otra pérdida comercial, que surja del uso o la imposibilidad de usar el material del sitio web, incluso si Rodcuentas ha sido advertido de la posibilidad de tales daños.
               </p>
 
               <div>
                 <h3 className="text-lg font-bold text-rod-purple mb-3">Facturación</h3>
                 <p className="text-gray-700">
-                  Rodcuentas.com no cobra tarifas recurrentes. Todas las transacciones son iniciadas por el usuario, y no guardamos ningún dato relacionado con la facturación. Utilizamos pasarelas de pago de terceros como Mercadopago y Stripe para procesar todos los pedidos.
+                  Rodcuentas no cobra tarifas recurrentes. Todas las transacciones son iniciadas por el usuario, y no guardamos ningún dato relacionado con la facturación. Utilizamos pasarelas de pago de terceros como Mercadopago y Stripe para procesar todos los pedidos.
                 </p>
               </div>
 
               <div>
                 <h3 className="text-lg font-bold text-rod-purple mb-3">Servicios</h3>
                 <p className="text-gray-700">
-                  En Rodcuentas.com, el cobro que realizamos es por el mantenimiento de nuestra web, el pago del servicio de Adspower y el pago del servicio al proveedor. Actuamos únicamente como intermediarios en la provisión de servicios de terceros, como herramientas de GroupBuySEO. Rodcuentas.com no es el creador ni propietario de estos servicios, pero invertimos tiempo y esfuerzo para adquirir cuentas de proveedores, principalmente de Bangladesh y China, que ofrecen acceso a estos servicios. Nos reservamos el derecho de cambiar el precio y la validez de cualquier servicio en cualquier momento. Además, podemos imponer límites en cualquier herramienta dependiendo de la disponibilidad y los acuerdos con los proveedores.
+                  En Rodcuentas, el cobro que realizamos es por el mantenimiento de nuestra web, el pago del servicio de Adspower y el pago del servicio al proveedor. Actuamos únicamente como intermediarios en la provisión de servicios de terceros, como herramientas de GroupBuySEO. Rodcuentas.com no es el creador ni propietario de estos servicios, pero invertimos tiempo y esfuerzo para adquirir cuentas de proveedores, principalmente de Bangladesh y China, que ofrecen acceso a estos servicios. Nos reservamos el derecho de cambiar el precio y la validez de cualquier servicio en cualquier momento. Además, podemos imponer límites en cualquier herramienta dependiendo de la disponibilidad y los acuerdos con los proveedores.
                 </p>
               </div>
 
