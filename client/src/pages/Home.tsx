@@ -682,7 +682,7 @@ export default function Home() {
               <div>
                 <h3 className="text-lg font-bold text-rod-purple mb-3">Servicios</h3>
                 <p className="text-gray-700">
-                  En Rodcuentas, el cobro que realizamos es por el mantenimiento de nuestra web, el pago del servicio de Adspower y el pago del servicio al proveedor. Actuamos únicamente como intermediarios en la provisión de servicios de terceros, como herramientas de GroupBuySEO. Rodcuentas.com no es el creador ni propietario de estos servicios, pero invertimos tiempo y esfuerzo para adquirir cuentas de proveedores, principalmente de Bangladesh y China, que ofrecen acceso a estos servicios. Nos reservamos el derecho de cambiar el precio y la validez de cualquier servicio en cualquier momento. Además, podemos imponer límites en cualquier herramienta dependiendo de la disponibilidad y los acuerdos con los proveedores.
+                  En Rodcuentas, el cobro que realizamos es por el mantenimiento de nuestra web, el pago del servicio de Adspower y el pago del servicio al proveedor. Actuamos únicamente como intermediarios en la provisión de servicios de terceros, como herramientas de GroupBuySEO. Rodcuentas no es el creador ni propietario de estos servicios, pero invertimos tiempo y esfuerzo para adquirir cuentas de proveedores, principalmente de Bangladesh y China, que ofrecen acceso a estos servicios. Nos reservamos el derecho de cambiar el precio y la validez de cualquier servicio en cualquier momento. Además, podemos imponer límites en cualquier herramienta dependiendo de la disponibilidad y los acuerdos con los proveedores.
                 </p>
               </div>
 
