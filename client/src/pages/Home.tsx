@@ -703,7 +703,7 @@ export default function Home() {
               <div>
                 <h3 className="text-lg font-bold text-rod-purple mb-3">Exoneración de Responsabilidad</h3>
                 <p className="text-gray-700">
-                  Rodcuentas.com actúa únicamente como intermediario para la provisión de servicios de terceros, como herramientas de GroupBuySEO. No somos los creadores ni propietarios de los servicios que ofrecemos. Los usuarios deben ser conscientes de que Rodcuentas.com no es responsable del contenido, la calidad, o el funcionamiento de los servicios ofrecidos por estos terceros. Cualquier inconveniente relacionado con los servicios de terceros debe ser tratado directamente con el proveedor correspondiente.
+                  Rodcuentas actúa únicamente como intermediario para la provisión de servicios de terceros, como herramientas de GroupBuySEO. No somos los creadores ni propietarios de los servicios que ofrecemos. Los usuarios deben ser conscientes de que Rodcuentas.com no es responsable del contenido, la calidad, o el funcionamiento de los servicios ofrecidos por estos terceros. Cualquier inconveniente relacionado con los servicios de terceros debe ser tratado directamente con el proveedor correspondiente.
                 </p>
               </div>
 
