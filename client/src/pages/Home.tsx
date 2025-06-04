@@ -216,7 +216,7 @@ export default function Home() {
               />
               <p className="text-gray-600 mb-6">Apps médicas premium y bases de datos médicas:
 
-UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc. </p>
+UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus, Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc. </p>
               <div className="space-y-3">
                 <button 
                   onClick={() => openExternalLink('https://whop.com/checkout/plan_BSnRObDWu5wAM/?a=santibm&d2c=true')}
