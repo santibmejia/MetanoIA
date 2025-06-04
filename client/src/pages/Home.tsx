@@ -647,7 +647,7 @@ UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus Clinical Key, NEJM, Scopus, JA
                 <p className="font-semibold">Enfocado en estudiantes y profesionales de la salud</p>
                 <div className="space-y-2">
                   <p className="font-semibold">🔹 Apps médicas premium y bases de datos médicas</p>
-                  <p className="ml-4">UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed, Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.</p>
+                  <p className="ml-4">UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed plus, Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.</p>
                   <p className="font-semibold">🔹Regalo especial: UN MES de MindGrasp IA (asistente de estudio con Inteligencia Artificial. Brinda resúmenes detallados a partir de videos, audios o artículos. </p>
                 </div>
               </div>
