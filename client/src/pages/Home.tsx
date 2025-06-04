@@ -214,7 +214,9 @@ export default function Home() {
                 alt="Combo Médico"
                 className="w-full h-40 object-contain rounded-lg mb-4"
               />
-              <p className="text-gray-600 mb-6">Apps médicas premium </p>
+              <p className="text-gray-600 mb-6">Apps médicas premium y bases de datos médicas
+
+UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc. </p>
               <div className="space-y-3">
                 <button 
                   onClick={() => openExternalLink('https://whop.com/checkout/plan_BSnRObDWu5wAM/?a=santibm&d2c=true')}
@@ -645,7 +647,7 @@ export default function Home() {
                 <p className="font-semibold">Enfocado en estudiantes y profesionales de la salud</p>
                 <div className="space-y-2">
                   <p className="font-semibold">🔹 Apps médicas premium y bases de datos médicas</p>
-                  <p className="ml-4">UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.</p>
+                  <p className="ml-4">UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus, Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.</p>
                   <p className="font-semibold">🔹Regalo especial: UN MES de MindGrasp IA (asistente de estudio con Inteligencia Artificial. Brinda resúmenes detallados a partir de videos, audios o artículos. </p>
                 </div>
               </div>
