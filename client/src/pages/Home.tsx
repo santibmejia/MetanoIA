@@ -214,7 +214,7 @@ export default function Home() {
                 alt="Combo Médico"
                 className="w-full h-40 object-contain rounded-lg mb-4"
               />
-              <p className="text-gray-600 mb-6">Apps médicas premium y bases de datos médicas
+              <p className="text-gray-600 mb-6">Apps médicas premium y bases de datos médicas:
 
 UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc. </p>
               <div className="space-y-3">
