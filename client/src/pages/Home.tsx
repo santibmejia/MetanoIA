@@ -641,12 +641,12 @@ export default function Home() {
             </div>
             <div className="p-6 space-y-6 text-sm leading-relaxed">
               <div className="text-gray-700 space-y-4">
-                <p className="text-lg font-bold text-rod-purple">🏥 COMBO MÉDICO + 25 apps IA – $60 USD/AÑO</p>
+                <p className="text-lg font-bold text-rod-purple">🏥 COMBO MÉDICO – $60 USD/AÑO</p>
                 <p className="font-semibold">Enfocado en estudiantes y profesionales de la salud</p>
                 <div className="space-y-2">
                   <p className="font-semibold">🔹 Apps médicas premium y bases de datos médicas</p>
-                  <p className="ml-4">UpToDate, AMBOSS, Lecturio, Osmosis, Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.</p>
-                  <p className="font-semibold">🔹 Incluye también acceso a +25 herramientas IA como regalo</p>
+                  <p className="ml-4">UpToDate, AMBOSS, Lecturio, Osmosis, DynaMed Plus Clinical Key, NEJM, Scopus, JAMA, Cochrane Library, etc.</p>
+                  <p className="font-semibold">🔹Regalo especial: UN MES de MindGrasp IA (asistente de estudio con Inteligencia Artificial. Brinda resúmenes detallados a partir de videos, audios o artículos. </p>
                 </div>
               </div>
             </div>
