@@ -207,14 +207,14 @@ export default function Home() {
 
             {/* Médico IA */}
             <div className="bg-white rounded-xl shadow-lg p-8 text-center hover:shadow-xl transition-shadow duration-300">
-              <h3 className="text-xl font-bold text-rod-purple mb-4">Combo Médico + IA</h3>
+              <h3 className="text-xl font-bold text-rod-purple mb-4">Combo Médico</h3>
               <div className="text-3xl font-bold text-rod-pink mb-4">$60 USD/AÑO</div>
               <img 
                 src="https://agenciasiglovibe.com/rodcuentas/img/Medico%20$60.png" 
-                alt="Combo Médico + IA"
+                alt="Combo Médico"
                 className="w-full h-40 object-contain rounded-lg mb-4"
               />
-              <p className="text-gray-600 mb-6">Apps médicas premium y herramientas IA.</p>
+              <p className="text-gray-600 mb-6">Apps médicas premium </p>
               <div className="space-y-3">
                 <button 
                   onClick={() => openExternalLink('https://whop.com/checkout/plan_BSnRObDWu5wAM/?a=santibm&d2c=true')}
